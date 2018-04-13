@@ -1,1 +1,14 @@
 
+* Netease dataset
+
+Data source
+
+This dataset contains Netease's online open class scraped from the website.
+
+Starting page: https://open.163.com/ocw/
+
+Data fields
+
+'categories' - String. e.g. '文学'
+'vedios' - String. e.g. '坎卡基社区学院《联邦党人文集》'
+
